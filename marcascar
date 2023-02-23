@@ -1,0 +1,10 @@
+lista_marcas = ["audi", "bmw", "honda", "toyota"]
+
+
+#for elemento in lista:
+
+#for indice, marca in enumerate(lista_marcas):
+#    print(indice + 1, marca)
+
+#print("Fin de lista")
+
